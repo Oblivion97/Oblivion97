@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm H M Mahmudul Hasan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oblivion97&label=Profile%20views&color=0e75b6&style=flat" alt="oblivion97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oblivion97" alt="oblivion97" /></a> </p>
